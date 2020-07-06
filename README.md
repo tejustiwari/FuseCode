@@ -1,4 +1,4 @@
-# chatter
+# FuseCode
 
 A new Flutter application.
 
